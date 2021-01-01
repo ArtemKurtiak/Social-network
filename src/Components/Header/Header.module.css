@@ -1,0 +1,10 @@
+.app_header img {
+	width: 50px;
+}
+.app_header {
+	grid-area: h;
+	background-color: #8888F5;
+}
+.loginBlock{
+	float: right;
+}

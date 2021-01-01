@@ -1,0 +1,26 @@
+.app_users{
+    padding: 40px;
+}
+.wrapper{
+    height: 200px;
+    border: 2px solid black;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.selectedPage{
+    font-weight: 900;
+    border: 2px dashed #037B09;
+}
+.span{
+    background-color: #D5FFD7;
+    padding: 7px;
+    margin-right: 7px;
+}
+.span:hover {
+    cursor: pointer;
+}
+.arrow{
+    font-weight: 900;
+    font-size: 15px;
+}

@@ -1,0 +1,15 @@
+.item{
+	color: red;
+	font-size: 20px;
+}
+.postItem{
+	padding: 15px;
+	border: 2px solid #B79300;
+	background-color: #F1DA7A;
+	margin-bottom: 30px;
+	height: 100px;
+}
+.likesPost{
+	float: right;
+	font-size: 25px;
+}

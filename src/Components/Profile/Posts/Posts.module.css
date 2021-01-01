@@ -1,0 +1,36 @@
+.creationPost{
+    background-color: #FFBA70;
+    border: 2px solid #C16A0D;
+    margin-bottom: 45px;
+    padding: 10px;
+}
+.creationPost h1{
+    text-align: center;
+}
+.creationPost textarea{
+    position: relative;
+    left: 0;
+    max-width: 250px;
+    max-height: 300px;
+    font: inherit;
+}
+.creationPost textarea:focus{
+    outline: none;
+    box-shadow: 0 0 10px #B66F24;
+}
+.creationPost button{
+    opacity: 0.75;
+    font-size: 20px;
+    color: white;
+    background-color: #CF1717;
+    border: 1px solid #DE7A7A;
+    font-family: monospace;
+    border-radius: 10px;
+    transition: opacity 0.2s;
+}
+.creationPost button:focus{
+    outline: none;
+}
+.creationPost button:hover{
+    opacity: 1;
+}

@@ -1,0 +1,14 @@
+.app_sidebar {
+	grid-area: s;
+	background-color: #F588DB;
+	padding: 30px;
+}
+.item a{
+	font-size: 30px;
+	color: white;
+	text-decoration: none;
+	transition: 0.3s color;
+}
+.item a.activeLink {
+	color: gold;
+}

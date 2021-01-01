@@ -1,0 +1,75 @@
+.my_dialogs {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+    background-color: #E4ED9B;
+}
+.my_dialogs button, textarea {
+    position: relative;
+
+}
+.my_dialogs button{
+    opacity: 0.75;
+    font-size: 20px;
+    color: white;
+    background-color: #CF1717;
+    border: 1px solid #F5A518;
+    font-family: monospace;
+    border-radius: 10px;
+    transition: opacity 0.2s;
+}
+.my_dialogs button:focus{
+    outline: none;
+}
+.my_dialogs button:hover{
+    opacity: 1;
+}
+.my_dialogs textarea{
+    max-width: 250px;
+    max-height: 300px;
+    font: inherit;
+}
+.my_dialogs textarea:focus{
+    outline: none;
+    box-shadow: 0 0 10px #677800;
+}
+.my_dialogs input:focus{
+    outline: none;
+}
+.dialog_items {
+    padding: 20px;
+}
+
+.item a {
+    text-decoration: none;
+    color: black;
+    font-size: 35px;
+}
+
+.item a.activeLink {
+    color: gold;
+}
+
+.dialogs_messages {
+    padding: 20px;
+}
+.avatar{
+    width: 40px;
+    border-radius: 80px;
+}
+.message_item {
+}
+.messages_list{
+    position: relative;
+    left: 15%;
+}
+.wrapper{
+    background-color: #CCDC4F;
+    width: 40%;
+    max-width: 40%;
+    border: 2px solid #97B433;
+    padding: 10px;
+    margin-bottom: 45px;
+}
+.wrapper:last-child{
+    margin-bottom: 15px;
+}

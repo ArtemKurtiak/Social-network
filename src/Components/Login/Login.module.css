@@ -1,0 +1,13 @@
+.wrapper {
+    padding: 20px;
+}
+
+input:focus {
+    outline: none;
+}
+
+.formError {
+    color: red;
+    padding: 5px;
+    font-size: 25px;
+}

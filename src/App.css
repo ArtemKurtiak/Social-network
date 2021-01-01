@@ -1,0 +1,14 @@
+.app_wrapper {
+  display: grid;
+  grid-template-areas:
+    "h h "
+    "s c";
+  grid-template-rows: 60px 1fr;
+  grid-template-columns: 2fr 10fr;
+  max-width: 1600px;
+  width: 100%;
+  margin: 0 auto;
+}
+.app_main {
+  grid-area: c;
+}
