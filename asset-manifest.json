@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ArtemKurtiak/Social-network/static/css/main.210ff62f.chunk.css",
+    "main.js": "/ArtemKurtiak/Social-network/static/js/main.bcb96711.chunk.js",
+    "main.js.map": "/ArtemKurtiak/Social-network/static/js/main.bcb96711.chunk.js.map",
+    "runtime-main.js": "/ArtemKurtiak/Social-network/static/js/runtime-main.0fa07870.js",
+    "runtime-main.js.map": "/ArtemKurtiak/Social-network/static/js/runtime-main.0fa07870.js.map",
+    "static/js/2.5e212d72.chunk.js": "/ArtemKurtiak/Social-network/static/js/2.5e212d72.chunk.js",
+    "static/js/2.5e212d72.chunk.js.map": "/ArtemKurtiak/Social-network/static/js/2.5e212d72.chunk.js.map",
+    "static/css/3.a1458a58.chunk.css": "/ArtemKurtiak/Social-network/static/css/3.a1458a58.chunk.css",
+    "static/js/3.f38635b3.chunk.js": "/ArtemKurtiak/Social-network/static/js/3.f38635b3.chunk.js",
+    "static/js/3.f38635b3.chunk.js.map": "/ArtemKurtiak/Social-network/static/js/3.f38635b3.chunk.js.map",
+    "static/js/4.4d02ca89.chunk.js": "/ArtemKurtiak/Social-network/static/js/4.4d02ca89.chunk.js",
+    "static/js/4.4d02ca89.chunk.js.map": "/ArtemKurtiak/Social-network/static/js/4.4d02ca89.chunk.js.map",
+    "index.html": "/ArtemKurtiak/Social-network/index.html",
+    "static/css/3.a1458a58.chunk.css.map": "/ArtemKurtiak/Social-network/static/css/3.a1458a58.chunk.css.map",
+    "static/css/main.210ff62f.chunk.css.map": "/ArtemKurtiak/Social-network/static/css/main.210ff62f.chunk.css.map",
+    "static/js/2.5e212d72.chunk.js.LICENSE.txt": "/ArtemKurtiak/Social-network/static/js/2.5e212d72.chunk.js.LICENSE.txt",
+    "static/media/preloader.7fb053b2.svg": "/ArtemKurtiak/Social-network/static/media/preloader.7fb053b2.svg",
+    "static/media/user.e4f0e234.jpg": "/ArtemKurtiak/Social-network/static/media/user.e4f0e234.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0fa07870.js",
+    "static/js/2.5e212d72.chunk.js",
+    "static/css/main.210ff62f.chunk.css",
+    "static/js/main.bcb96711.chunk.js"
+  ]
+}
